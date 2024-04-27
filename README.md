@@ -4,3 +4,6 @@ this is demo
 first change
 <br> 
 updating for new set up
+<br>
+Seting git 
+
