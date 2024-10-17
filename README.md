@@ -7,4 +7,5 @@ updating for new set up
 <br>
 Seting git 
 jenkis poll
+jenkis poll 2
 
