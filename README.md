@@ -8,4 +8,5 @@ updating for new set up
 Seting git 
 jenkis poll
 jenkis poll 2
+setting3
 
